@@ -1,0 +1,34 @@
+CharlieSun
+CharlieSun
+CharlieSun
+CharlieSun
+CharlieSun
+Bioinformatics
+Bioinformatics
+Bioinformatics
+Bioinformatics
+Python
+Python
+Python
+Python
+Pandas,matplotlib
+numpy,scipy,sciketLearn
+Java J2EE
+Java J2EE
+Java J2EE
+SQL
+R
+Perl, sed/awk, XML/XSLT, GIT/SVN, Eclipse/Sublime/VIM
+Oracle, MySQL, ElasticSearch, 
+Linux, OSX, Windows
+Genomics, Microarray
+NGS Data Analysis
+LIMS, Big Data management
+computing, High-performance computing
+SGE, PBS
+Cloud Computing, Data Analysis/Visualization
+TIGR
+JCVI
+TCGA
+PAVE
+PFGRC
